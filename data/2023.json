@@ -1,0 +1,22 @@
+{
+  "year": "2023",
+  "papers": {
+    "English": {
+      "view": "https://your-link.com/2023/english-view.pdf",
+      "download": "https://your-link.com/2023/english-download.pdf"
+    },
+    "Math": {
+      "view": "https://your-link.com/2023/math-view.pdf",
+      "download": "https://your-link.com/2023/math-download.pdf"
+    },
+    "Science": {
+      "view": "https://your-link.com/2023/science-view.pdf",
+      "download": "https://your-link.com/2023/science-download.pdf"
+    },
+    "Hindi": {
+      "view": "https://your-link.com/2023/hindi-view.pdf",
+      "download": "https://your-link.com/2023/hindi-download.pdf"
+    }
+  }
+}
+
