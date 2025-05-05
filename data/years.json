@@ -1,0 +1,14 @@
+[
+  {
+    "year": "2024",
+    "subjects": ["English", "Math", "Science", "Hindi"]
+  },
+  {
+    "year": "2023",
+    "subjects": ["Math", "Konkani", "Science"]
+  },
+  {
+    "year": "2022",
+    "subjects": ["English", "History"]
+  }
+]
