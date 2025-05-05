@@ -1,0 +1,13 @@
+{
+  "year": "2022",
+  "papers": {
+    "English": {
+      "view": "https://your-link.com/2022/english-view.pdf",
+      "download": "https://your-link.com/2022/english-download.pdf"
+    },
+    "History": {
+      "view": "https://your-link.com/2022/history-view.pdf",
+      "download": "https://your-link.com/2022/history-download.pdf"
+    }
+  }
+}
