@@ -2,8 +2,8 @@
   "year": "2024",
   "papers": {
     "English": {
-      "view": "https://your-link.com/2024/english-view.pdf",
-      "download": "https://your-link.com/2024/english-download.pdf"
+      "view": "https://raw.githubusercontent.com/creatifexcompany/goa-ssc-papers/main/data/english.pdf",
+      "download": "https://raw.githubusercontent.com/creatifexcompany/goa-ssc-papers/main/data/english.pdf"
     },
     "Math": {
       "view": "https://your-link.com/2024/math-view.pdf",
