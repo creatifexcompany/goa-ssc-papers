@@ -10,5 +10,21 @@
   {
     "year": "2022",
     "subjects": ["English", "History"]
+  },
+  {
+    "year": "2021",
+    "subjects": ["English", "Math", "Science"]
+  },
+  {
+    "year": "2020",
+    "subjects": ["Math", "Science", "Hindi"]
+  },
+  {
+    "year": "2019",
+    "subjects": ["English", "Konkani", "Math"]
+  },
+  {
+    "year": "2018",
+    "subjects": ["English", "Science", "History"]
   }
 ]
