@@ -1,0 +1,9 @@
+{
+  "year": "2020",
+  "papers": {
+    "Science": {
+      "view": "https://your-link.com/2020/science-view.pdf",
+      "download": "https://your-link.com/2020/science-download.pdf"
+    }
+  }
+}
